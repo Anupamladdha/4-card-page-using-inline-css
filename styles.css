@@ -1,0 +1,13 @@
+
+@media screen and (min-width: 1276px){
+  .Karma{order:5;}
+  .Supervisor{
+    transform: translateY(50%);
+    transition: all 0.5s ease;
+  }
+  .Calculator{
+    transform: translateY(50%);
+    transition: all 0.5s ease;
+  }
+
+}
